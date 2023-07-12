@@ -34,7 +34,7 @@ class Main {
         }
       }
       if (!isCorrectCity) {
-        System.out.println("Такого міста не існує в БД. Введіть інше місто.");
+        System.out.println("Такого міста не існує в БД. Введіть, будь ласка, інше місто.");
         continue;
       }
       /*
