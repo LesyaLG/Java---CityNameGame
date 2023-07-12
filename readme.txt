@@ -1,1 +1,1 @@
-Це моя перша програма на Java з марафону "Битва мов GoIT"
+This is my first Java-program from marathon "Битва мов GoIT"
